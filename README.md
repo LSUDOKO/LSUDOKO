@@ -54,10 +54,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LSUDOKO/LSUDOKO/output/snake.svg" alt="Snake animation" />
+
 
 ###
-
+## <h4> Visitor Count: </h4>
 <div align="center">
   <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
 </div>
