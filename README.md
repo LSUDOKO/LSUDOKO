@@ -8,7 +8,11 @@
 
 - 📫 How to reach me **adoranto737@gmail.com**
 <imag align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## 🏆 Trophies
 
+<p align="center">
+  <img src="https://trophies-three.vercel.app/?username=deepabhyudaya&theme=algolia&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-singh-1a857b2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpit-singh-1a857b2a9" height="30" width="40" /></a>
