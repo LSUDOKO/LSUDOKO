@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am ARPIT SINGH</h1>
+<h1 align="center">Hi there, I am ARPIT SINGH 👋</h1>
 
 ###
 
