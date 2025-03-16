@@ -15,6 +15,8 @@
   <img width="11" />
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb logo"  />
   <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="sqllite logo"  />
+  <img width="11" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql logo"  />
   <img width="11" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cplusplus logo"  />
