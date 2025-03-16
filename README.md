@@ -3,37 +3,35 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg"  width="80" height="80" alt="javascript logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css3 logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="python logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="html5 logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="premierepro logo"  />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cplusplus logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="redux logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="django logo"  />
   <img width="11" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="c logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="typescript logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="react logo"  />
   <img width="11" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" alt="jupyter logo"  />
 </div>
 
 ###
