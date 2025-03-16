@@ -71,12 +71,12 @@
 ###
 
 <div align="center">
-  <p align="left" style:background_color="green">Visitor count</p>
+  <p align="left" style:background_color="white"><b>Visitor count</b></p>
   <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"  />
+  <img height="200" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZuYnkxMWd2YmR6NzhrMjVwcndiMTFjNmR0ZXFiOXRodXYya3NqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
