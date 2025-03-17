@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  />
   <img width="11" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" alt="jupyter logo"  />
+  <img width="11" />
+  <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvNjEzMi82MTMy/MjIwLnBuZw" width="65" height="65" alt="scala logo"  />
 </div>
 
 ###
