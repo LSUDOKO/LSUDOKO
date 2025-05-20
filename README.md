@@ -37,7 +37,6 @@
   <img width="11" />
   <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvNjEzMi82MTMy/MjIwLnBuZw" width="65" height="65" alt="scala logo"  />
 </div>
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
