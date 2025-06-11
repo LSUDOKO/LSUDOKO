@@ -41,7 +41,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LSUDOKO&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=18&theme=radical&hide_border=false&order=2" height="175"  alt="languages graph"  />
-  <hr>
+  <br>
+  <br>
   <img src="https://streak-stats.demolab.com?user=LSUDOKO&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LSUDOKO&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="175" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LSUDOKO&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
@@ -50,22 +51,24 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-singh-1a857b2a9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/arpit-singh-1a857b2a9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://x.com/ARPITSI03544750" target="_blank">
-    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1742151403~exp=1742155003~hmac=414f317efdc402255ae6c56a9a8ed59c9e655891aa8bd03a3e00c3c39d79d534&w=826" width="52" height="40" alt="x logo"  />
+    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1742151403~exp=1742155003~hmac=414f317efdc402255ae6c56a9a8ed59c9e655891aa8bd03a3e00c3c39d79d534&w=826" width="52" height="40" alt="x logo" />
   </a>
-  <a href="arpit7195" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <!-- Discord link: use invite or leave text if you don't have one -->
+  <a href="https://discord.com/users/arpit7195" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="www.youtube.com/@weyar737" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo"  />
+  <a href="https://www.youtube.com/@weyar737" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
   </a>
-  <a href="adoranto737@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:adoranto737@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+
 
 ###
 
