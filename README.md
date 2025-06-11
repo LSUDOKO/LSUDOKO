@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am ARPIT SINGH</h1>
+<h1 align="center">Hi 👋, I am Arpit Singh</h1>
 
 ###
 
@@ -37,10 +37,10 @@
   <img width="11" />
   <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvNjEzMi82MTMy/MjIwLnBuZw" width="65" height="65" alt="scala logo"  />
 </div>
-###
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LSUDOKO&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=16&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LSUDOKO&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=18&theme=radical&hide_border=false&order=2" height="175"  alt="languages graph"  />
   <hr>
   <img src="https://streak-stats.demolab.com?user=LSUDOKO&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=LSUDOKO&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="175" alt="trophy graph"  />
