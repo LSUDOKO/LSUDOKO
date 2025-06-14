@@ -1,6 +1,40 @@
 <h1 align="center">Hi 👋, I am Arpit Singh</h1>
-
-###
+<table style="width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <h3>A Competetive Programmer, Full-Stack Developer and a Tech Enthusiast from India.</h3>
+      <p>
+        Passionate about building interactive applications and learning new technologies. 
+        I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
+        and contribute to innovative solutions. 
+      </p>
+      <br/>
+<div align="center">
+  <a href="https://discord.com/users/arpit7195" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:adoranto737@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/arpit-singh-1a857b2a9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/ARPITSI03544750" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://t.me/ADORANRO" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="42" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://www.youtube.com/@weyar737" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
+  </a>
+</div>
+    </td>
+    <td style="text-align: right; width: 50%;">
+      <img src="https://github.com/MishraShardendu22/MishraShardendu22/raw/main/giphy.gif" alt="Animated GIF" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg"  width="80" height="80" alt="javascript logo"  />
@@ -49,38 +83,14 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/arpit-singh-1a857b2a9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/ARPITSI03544750" target="_blank">
-    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1742151403~exp=1742155003~hmac=414f317efdc402255ae6c56a9a8ed59c9e655891aa8bd03a3e00c3c39d79d534&w=826" width="52" height="40" alt="x logo" />
-  </a>
-  <!-- Discord link: use invite or leave text if you don't have one -->
-  <a href="https://discord.com/users/arpit7195" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.youtube.com/@weyar737" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
-  </a>
-  <a href="mailto:adoranto737@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-
-
 ###
 
 ###
 
 <div align="center">
-  <p align="left" style:background_color="white"><b>Visitor count</b></p>
+  <p align="left" style:color="Green"><b>Visitor count</b></p>
   <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZuYnkxMWd2YmR6NzhrMjVwcndiMTFjNmR0ZXFiOXRodXYya3NqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-</div>
