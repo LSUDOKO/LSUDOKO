@@ -92,5 +92,9 @@
   <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
 </div>
 
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
+</div>
 ###
 
