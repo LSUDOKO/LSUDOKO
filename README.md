@@ -91,7 +91,12 @@
   <p align="left" style:color="Green"><b>Visitor count</b></p>
   <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
 </div>
-
+<div style="display: flex;" justify-content: center; gap: 20px; >
+  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" alt="Image 1" width="200">
+  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" alt="Image 2" width="200">
+</div>
+<!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
+<img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
