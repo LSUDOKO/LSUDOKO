@@ -31,7 +31,7 @@
 </div>
     </td>
     <td style="text-align: right; width: 50%;">
-      <img src="https://github.com/MishraShardendu22/MishraShardendu22/raw/main/giphy.gif" alt="Animated GIF" width="300"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3cWp4MGw4cmx6Y3l4ZnJpZ215bzBsNmR2NzhlMmVneDgwa2NkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hKafco7mFwBioBxqFT/200.webp" alt="Animated GIF" width="1000" height="1000"/>
     </td>
   </tr>
 </table>
@@ -91,9 +91,10 @@
   <p align="left" style:color="Green"><b>Visitor count</b></p>
   <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?"  />
 </div>
-<div style="display: flex;" justify-content: center; gap: 20px; >
-  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" alt="Image 1" width="200">
-  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" alt="Image 2" width="200">
+<!-- Certifications -->
+<div align="center" style="display:flex; gap:20px;">
+  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
+  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200">
 </div>
 <!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
 <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
