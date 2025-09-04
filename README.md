@@ -31,7 +31,7 @@
 </div>
     </td>
     <td style="text-align: right; width: 50%;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3cWp4MGw4cmx6Y3l4ZnJpZ215bzBsNmR2NzhlMmVneDgwa2NkdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hKafco7mFwBioBxqFT/200.webp" alt="Animated GIF" width="1000" height="1000"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5Y21iNnpsN21oMWRrZTdvZGZkdmEycDExNWZ3N3RkejdoYWx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif" alt="Animated GIF" width="500" height="500"/>
     </td>
   </tr>
 </table>
