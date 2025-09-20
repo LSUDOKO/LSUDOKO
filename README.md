@@ -73,8 +73,14 @@
 </div>
 <br>
 <div align="center">
-
-| <img src="https://your-stats.vercel.app/api?username=LSUDOKO&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=radical&amp;locale=en&amp;hide_border=false&amp;order=1" height="175" alt="stats graph" /> | <img src="https://your-stats.vercel.app/api/top-langs?username=LSUDOKO&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=650&amp;langs_count=18&amp;theme=radical&amp;hide_border=false&amp;order=2" height="175" alt="languages graph" /> |
+<p align="center">
+  <a href="https://github.com/LSUDOKO?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/?username=LSUDOKO&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
+  </a>
+  <a href="https://github.com/LSUDOKO">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&layout=compact&theme=radical&langs_count=6" width=400 />
+  </a>
+</p>
 
 
   <br>
