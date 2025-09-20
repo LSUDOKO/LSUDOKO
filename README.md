@@ -76,9 +76,12 @@
 <p align="center">
   <a href="https://github.com/LSUDOKO?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/?username=LSUDOKO&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
+<br>
   </a>
+<br>
   <a href="https://github.com/LSUDOKO">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&layout=compact&theme=radical&langs_count=6" width=400 />
+<br>
   </a>
 </p>
 
