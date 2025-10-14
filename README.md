@@ -76,19 +76,15 @@
 <p align="center">
   <a href="https://github.com/LSUDOKO?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/?username=LSUDOKO&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
-<br>
   </a>
-<br>
   <a href="https://github.com/LSUDOKO">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&layout=compact&theme=radical&langs_count=6" width=400 />
-<br>
   </a>
 </p>
 
-
-  <br>
   <br>
   <img src="https://streak-stats.demolab.com?user=LSUDOKO&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <br>
   <div align="right">
     <img src="https://github-profile-trophy.vercel.app/?username=LSUDOKO&theme=matrix&column=9" alt="GitHub Trophy" />
   </div>
