@@ -59,7 +59,7 @@
 <details>
 <summary><b>📌 View Detailed Projects & Links</b></summary>
 
-### 💎 Featured Projects
+###  Featured Projects
 
 **1. Flow Fantasy Fusion** - *Forte Hacks Winner ($5,000)*
 - Top Dapper NFT Experience with Real Utility
