@@ -168,11 +168,10 @@
 
 ---
 
-## 📈 Visitor Count
-
+<!-- Profile Views Counter -->
 <div align="center">
-   <p align="left" style="color:Green"><b>Profile Views</b></p>
-  <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
+<p align="left" style:color="Green"><b>Visitor count</b></p>
+<img src="[https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34](https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34)" />
 </div>
 
 ---
