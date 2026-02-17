@@ -138,15 +138,15 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-<p align="center">
-  <a href="https://github.com/LSUDOKO?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/?username=LSUDOKO&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 />
-  </a>
-  <a href="https://github.com/LSUDOKO">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&layout=compact&theme=radical&langs_count=6" width=400 />
-  </a>
-</p>
-
+<picture>
+  <source 
+    srcset="https://github-readme-stats-gamma-lilac.vercel.app//api?username=LSUDOKO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+    media="(prefers-color-scheme: dark)" />
+  <img 
+    src="https://github-readme-stats-gamma-lilac.vercel.app/api?username=LSUDOKO&show_icons=true&theme=tokyonight&bg_color=F6F8FA&hide_border=true" 
+    height="190" 
+    alt="GitHub Stats" />
+</picture>
   <br>
   <img src="https://streak-stats.demolab.com?user=LSUDOKO&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
   <br><br>
