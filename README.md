@@ -249,7 +249,7 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Creative Scala — GSoC Contribution Period</h4>
+      <h4>Creative Scala — 2025</h4>
       <p>2 merged PRs to the <strong>Scala/Terminus</strong> codebase. Implemented cursor movement via ANSI escape codes (left/right public API), added terminal dimension support for xterm.js, and maintained full test coverage.</p>
       <p>
         <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
