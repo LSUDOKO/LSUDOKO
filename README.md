@@ -67,7 +67,7 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 ---
 
 ## Featured Projects
-
+ 
 <div align="center">
 <table>
   <tr>
@@ -142,31 +142,62 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project Name</h3>
-      <p>Short description of the project and the problem it solves.</p>
+      <h3><a href="https://github.com/LSUDOKO/PrivaCRE">PrivaCRE</a></h3>
+      <p>Privacy-preserving credit scoring for DeFi lending. Enables under-collateralized loans (105% collateral) using Chainlink CRE secure enclaves, Plaid bank data, and Groq AI — with zero PII exposure. Sybil-resistant via World ID. Built for Chainlink Convergence Hackathon 2026.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-555555?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-555555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chainlink%20CRE-375BD2?style=flat-square&logo=chainlink&logoColor=white"/>
+        <img src="https://img.shields.io/badge/World%20ID-000000?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white"/>
       </p>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/LSUDOKO/PrivaCRE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
       &nbsp;
-      <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-28a745?style=flat-square"/></a>
+      <a href="https://69ac5879ed37727422011b22--privacre.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-28a745?style=flat-square&logo=netlify&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Project Name</h3>
-      <p>Short description of the project and the problem it solves.</p>
+      <h3><a href="#">One Clash Fighters</a></h3>
+      <p>Retro blockchain fighting game on Movement Network (Aptos Move). Players mint NFT fighters, battle AI opponents, stake MOVE tokens in tournaments, and earn on-chain rewards. Live leaderboard via direct Movement REST API — zero CORS issues, fully decentralized.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-555555?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-555555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Aptos%20Move-1E40AF?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://explorer.movementnetwork.xyz/account/0x234e25fcd07fc478e6d223b72acaf9fa5b1cdc3f4d7dde5b0d1bd1f80f627b0e?network=bardock+testnet"><img src="https://img.shields.io/badge/Movement%20Explorer-1E40AF?style=flat-square&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://arbshield.vercel.app">ArbShield</a></h3>
+      <p>Privacy-preserving compliance verification engine for institutional RWAs on Arbitrum. First protocol to unify Stylus Rust + RIP-7212 passkeys + ZK proofs — achieving 97% gas savings vs Solidity ZK verifiers. Unlocks $500M+ stuck liquidity for protocols like BlackRock BUIDL and Ondo USDY. Built for Arbitrum Open House Buildathon 2026.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Stylus%20Rust-F74C00?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square&logo=arbitrum&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ZK%20Proofs-7C3AED?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aaditya1273/ArbShield"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      &nbsp;
+      <a href="https://arbshield.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-28a745?style=flat-square&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="#">Django Channels Bingo</a></h3>
+      <p>Real-time multiplayer Bingo game with a horror-themed cinematic UI. WebSocket-powered room system syncs tile clicks, Bingo calls, game state, and in-game chat instantly across all players. Supports desktop, tablet, and mobile. Rooms auto-delete when all players leave.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django%20Channels-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
       <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      &nbsp;
-      <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-28a745?style=flat-square"/></a>
     </td>
   </tr>
 </table>
 </div>
-
+ 
 ---
 
 ## Open Source Contributions
@@ -377,13 +408,6 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 
 ---
 
-## Education
-
-| Degree | Institution | Year |
-|--------|-------------|:----:|
-| B.Tech — Computer Science & Engineering | National Institute of Technology, Hamirpur | 2024 – 2028 |
-
----
 
 <div align="center">
 
