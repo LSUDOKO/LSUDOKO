@@ -318,14 +318,6 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="195"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="195"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=LSUDOKO&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" height="185"/>
 
 </div>
@@ -341,12 +333,6 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSUDOKO&theme=github_dark" height="180"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LSUDOKO&theme=github_dark" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LSUDOKO&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=6" width="96%"/>
 
 </div>
 
