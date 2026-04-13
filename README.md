@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the intersection of full-stack engineering, Web3, and systems programming. Selected as an **LFX Mentee 2025** under the Linux Foundation for the Magma project, and an active open-source contributor to **HPX** (STE||AR Group) during GSoC 2026. I've won **7+ international hackathons**, solved **870+ DSA problems**, and achieved a max **Codeforces rating of 1372**.
+I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the intersection of full-stack engineering, Web3, and systems programming. Selected as an **LFX Mentee 2025** under the Linux Foundation for the Magma project, and an active open-source contributor to **HPX** (STE||AR Group) during GSoC 2026. I've won **8+ international hackathons**, solved **870+ DSA problems**, and achieved a max **Codeforces rating of 1372**.
 
 ---
 
