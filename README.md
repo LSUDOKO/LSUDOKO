@@ -37,6 +37,8 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 
 | Rank | Prize | Event | Project |
 |:----:|:-----:|-------|---------|
+| **Top 10 Fresh Code** | $5000 | PL_Genesis: Frontiers of Collaboration Hackathon | [HALO](https://x.com/ARPITSI03544750/status/2043182673276100852) |
+| **Top 5** | 10000 FLOW Tokens | FLow Grant DAO | [Flow Senital](https://dorahacks.io/buidl/38822) |
 | **1st Place** | $3,000 | MetaMask Card Dev Cook-Off | [Cross-Chain App](https://x.com/MetaMaskDev/status/1950918300566700085) |
 | **1st Place** | $5,000 | Forte Hacks by Flow | [Flow Fantasy Fusion](https://www.hackquest.io/projects/Forte-Hacks-by-Flow-Build-with-Disney-Dune-and-Dapper-Flow-Fantasy-Fusion) |
 | **Top 8** | $300 + $1k Grant | ONE HACK 2025 | [RWA Exchange](https://github.com/RWA-Exchange/RWA-Exchange-OneChain) |
@@ -45,7 +47,7 @@ I'm a B.Tech Computer Science student at **NIT Hamirpur**, building at the inter
 | **4th Place** | AOPS + .xyz | PortXFolio | [Portfolio](https://devpost.com/software/arpit-portfolio) |
 | **Winner** | XYZ + NordVPN | HackEMinds 2025 | [Speak Pro AI](https://devpost.com/software/speak-pro-ai-wsc64u) |
 
-7 wins · 20+ hackathons · 2× bounty awards · Devpost · DoraHacks · HackQuest
+8 wins · 20+ hackathons · 2× bounty awards · Devpost · DoraHacks · HackQuest
 
 </td>
 <td width="50%" valign="top">
