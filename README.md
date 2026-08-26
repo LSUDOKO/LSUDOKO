@@ -394,7 +394,7 @@ Also built [**hpx-ci-diagnostics**](https://github.com/LSUDOKO/hpx-ci-diagnostic
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=LSUDOKO&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="Contribution streak"/>
+<a href="https://github.com/LSUDOKO"><img src="https://streak-stats.demolab.com/?user=LSUDOKO&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&card_width=495&v=2" alt="2,227 total contributions · 23 day current streak · 24 day longest streak"/></a>
 
 <br/><br/>
 
