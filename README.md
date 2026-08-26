@@ -5,7 +5,7 @@
 ### Building guardrails for autonomous AI agents
 
 <p>
-LFX Mentee '25 · GSoC '26 @ HPX · 8× Hackathon Winner · CSE @ NIT Hamirpur
+LFX Mentee '25· 8× Hackathon Winner · CSE @ NIT Hamirpur
 </p>
 
 <p>
