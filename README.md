@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arpit%20Singh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=62&desc=Competitive%20Programmer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Web3%20Builder&descSize=16&descAlignY=82&descColor=ccc" width="100%"/>
+<img width="2109" height="746" alt="ChatGPT Image Aug 26, 2026, 03_58_57 PM" src="https://github.com/user-attachments/assets/e08a8583-1674-4768-8ae5-c212aff775d9" />
+
 
 ### Building guardrails for autonomous AI agents
 
