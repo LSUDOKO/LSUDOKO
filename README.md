@@ -1,30 +1,29 @@
 <div align="center">
 
-<img width="2109" height="746" alt="ChatGPT Image Aug 26, 2026, 03_58_57 PM" src="https://github.com/user-attachments/assets/e08a8583-1674-4768-8ae5-c212aff775d9" />
+<img width="2109" height="746" alt="Arpit Singh" src="https://github.com/user-attachments/assets/e08a8583-1674-4768-8ae5-c212aff775d9" />
 
-
-### Building guardrails for autonomous AI agents
+<h3>Building guardrails for autonomous AI agents</h3>
 
 <p>
-LFX Mentee '25· 8× Hackathon Winner · CSE @ NIT Hamirpur
+LFX Mentee '25 · 8× Hackathon Winner · CSE @ NIT Hamirpur
 </p>
 
 <p>
-<a href="https://arpitporfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/arpit-singh-1a857b2a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:adoranto737@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://x.com/_arpit1"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://t.me/ADORANRO"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://discord.com/users/arpit7195"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://www.youtube.com/@LSUDOKO"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://arpitporfolio.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/arpit-singh-1a857b2a9">LinkedIn</a> ·
+<a href="mailto:adoranto737@gmail.com">Email</a> ·
+<a href="https://x.com/_arpit1">X</a> ·
+<a href="https://t.me/ADORANRO">Telegram</a> ·
+<a href="https://discord.com/users/arpit7195">Discord</a> ·
+<a href="https://www.youtube.com/@LSUDOKO">YouTube</a>
 </p>
 
 <p>
-<a href="https://codeforces.com/profile/LSUDOKO"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://leetcode.com/u/ARPIT737/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://github.com/LSUDOKO?tab=followers"><img src="https://img.shields.io/github/followers/LSUDOKO?style=flat-square&color=6f42c1&labelColor=1a1b27&label=Followers" alt="Followers"/></a>
-<a href="https://github.com/LSUDOKO?tab=repositories"><img src="https://img.shields.io/badge/Repositories-110-6f42c1?style=flat-square&labelColor=1a1b27" alt="Repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=LSUDOKO&style=flat-square&color=6f42c1&label=Profile+Views" alt="Profile Views"/>
+<a href="https://codeforces.com/profile/LSUDOKO">Codeforces</a> ·
+<a href="https://leetcode.com/u/ARPIT737/">LeetCode</a> ·
+<a href="https://github.com/LSUDOKO?tab=followers">Followers</a> ·
+<a href="https://github.com/LSUDOKO?tab=repositories">Repositories</a> ·
+<a href="https://komarev.com/ghpvc/?username=LSUDOKO">Profile Views</a>
 </p>
 
 </div>
