@@ -54,7 +54,7 @@ Reach me:   adoranto737@gmail.com
 
 | Open Source | Competitive Programming | Hackathons |
 |:---:|:---:|:---:|
-| **64** merged pull requests | **870+** problems solved | **8** first-tier wins |
+| **64** merged pull requests | **1200+** problems solved | **8** first-tier wins |
 | **44** repositories contributed to | **1372** peak Codeforces rating | **20+** competitions entered |
 | **110** original repositories | **22+** rated contests | **2×** grant / bounty awards |
 | **2,200+** lifetime contributions | Codeforces · LeetCode · AtCoder | Devpost · DoraHacks · HackQuest |
