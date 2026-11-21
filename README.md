@@ -12,9 +12,7 @@
 <a href="https://www.youtube.com/@LSUDOKO"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://t.me/ADORANRO"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.com/users/arpit7195"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=LSUDOKO&style=flat-square&color=7C3AED&label=profile+views" alt="Profile views"/>
 <a href="https://github.com/LSUDOKO?tab=followers"><img src="https://img.shields.io/github/followers/LSUDOKO?style=flat-square&color=22D3EE&label=followers" alt="Followers"/></a>
 
@@ -51,9 +49,9 @@ reach_me:   adoranto737@gmail.com
     <th align="center" width="33%">Open Source</th>
   </tr>
   <tr>
-    <td align="center"><h2>9</h2><sub>wins &amp; top placements</sub></td>
-    <td align="center"><h2>1,265</h2><sub>problems solved across 6 platforms</sub></td>
-    <td align="center"><h2>74</h2><sub>merged pull requests</sub></td>
+    <td align="center"><h3>9</h3><sub>wins &amp; top placements</sub></td>
+    <td align="center"><h3>1,265</h3><sub>problems solved across 6 platforms</sub></td>
+    <td align="center"><h3>74</h3><sub>merged pull requests</sub></td>
   </tr>
   <tr>
     <td align="center"><b>$15,600+</b> &amp; 10k FLOW in prizes and grants</td>
