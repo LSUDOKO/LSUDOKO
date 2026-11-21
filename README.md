@@ -71,6 +71,29 @@ reach_me:   adoranto737@gmail.com
 
 ---
 
+## Hackathons
+
+<div align="center">
+
+| Result | Prize | Event | Project |
+|:---|:---|:---|:---|
+| 🏆 **4th Place** | **$750** | Builder.io Agent-Native Hackathon 2026 | [Apprentice](https://github.com/LSUDOKO/Apprentice) |
+| 🏆 **Top 10 Fresh Code** | $5,000 | PL_Genesis: Frontiers of Collaboration | |
+| 🥇 **1st Place** | $5,000 | Forte Hacks by Flow | [Flow Fantasy Fusion](https://www.hackquest.io/projects/Forte-Hacks-by-Flow-Build-with-Disney-Dune-and-Dapper-Flow-Fantasy-Fusion) |
+| 🥇 **1st Place** | $3,000 | MetaMask Card Dev Cook-Off | [Cross-Chain Rewards Hub](https://github.com/LSUDOKO/cross_chain_rewards_hub) |
+| 🏆 **Top 5** | 10,000 FLOW | Flow Grant DAO | [DoraHacks BUIDL](https://dorahacks.io/buidl/38822) |
+| 🏆 **Top 8** | $300 + $1k grant | ONE HACK 2025 | [RWA Exchange](https://github.com/RWA-Exchange/RWA-Exchange-OneChain) |
+| 🏆 **Dual Track** | $575 | MetaMask &amp; Solana | |
+| 🥉 **3rd Place** | NordVPN | Hack for Hope | [Blind Navigator](https://devpost.com/software/blind-navigator) |
+| 🏆 **4th Place** | AOPS + .xyz | PortXFolio | [Portfolio](https://devpost.com/software/arpit-portfolio) |
+| 🏆 **Winner** | XYZ + NordVPN | HackEMinds 2025 | [Speak Pro AI](https://devpost.com/software/speak-pro-ai-wsc64u) |
+
+<sub>9 hackathon wins &amp; top placements · Flow Grant DAO · 20+ hackathons entered</sub>
+
+</div>
+
+---
+
 ## Featured Work
 
 > Most recent first. Every project is public and open source.
@@ -276,29 +299,6 @@ reach_me:   adoranto737@gmail.com
 | [Bingo](https://github.com/LSUDOKO/Bingo) | Real-time multiplayer Bingo with WebSocket rooms and live chat | Django Channels |
 
 </details>
-
----
-
-## Hackathons
-
-<div align="center">
-
-| Result | Prize | Event | Project |
-|:---|:---|:---|:---|
-| 🏆 **4th Place** | **$750** | Builder.io Agent-Native Hackathon 2026 | [Apprentice](https://github.com/LSUDOKO/Apprentice) |
-| 🏆 **Top 10 Fresh Code** | $5,000 | PL_Genesis: Frontiers of Collaboration | |
-| 🥇 **1st Place** | $5,000 | Forte Hacks by Flow | [Flow Fantasy Fusion](https://www.hackquest.io/projects/Forte-Hacks-by-Flow-Build-with-Disney-Dune-and-Dapper-Flow-Fantasy-Fusion) |
-| 🥇 **1st Place** | $3,000 | MetaMask Card Dev Cook-Off | [Cross-Chain Rewards Hub](https://github.com/LSUDOKO/cross_chain_rewards_hub) |
-| 🏆 **Top 5** | 10,000 FLOW | Flow Grant DAO | [DoraHacks BUIDL](https://dorahacks.io/buidl/38822) |
-| 🏆 **Top 8** | $300 + $1k grant | ONE HACK 2025 | [RWA Exchange](https://github.com/RWA-Exchange/RWA-Exchange-OneChain) |
-| 🏆 **Dual Track** | $575 | MetaMask &amp; Solana | |
-| 🥉 **3rd Place** | NordVPN | Hack for Hope | [Blind Navigator](https://devpost.com/software/blind-navigator) |
-| 🏆 **4th Place** | AOPS + .xyz | PortXFolio | [Portfolio](https://devpost.com/software/arpit-portfolio) |
-| 🏆 **Winner** | XYZ + NordVPN | HackEMinds 2025 | [Speak Pro AI](https://devpost.com/software/speak-pro-ai-wsc64u) |
-
-<sub>9 hackathon wins &amp; top placements · Flow Grant DAO · 20+ hackathons entered</sub>
-
-</div>
 
 ---
 
